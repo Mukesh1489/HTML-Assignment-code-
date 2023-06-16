@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Information</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Contact Information</h1>
+  </header>
+  <main>
+    <section>
+      <h2>Name</h2>
+      <p>John Doe</p>
+    </section>
+    <section>
+      <h2>Email</h2>
+      <p>john.doe@example.com</p>
+    </section>
+    <section>
+      <h2>Phone Number</h2>
+      <p>(123) 456-7890</p>
+    </section>
+  </main>
+</body>
+</html>
